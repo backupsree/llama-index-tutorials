@@ -2,6 +2,15 @@
 # Python 3.12+
 # Latest LlamaIndex modular architecture
 
+google-generativeai
+
+llama-index-embeddings-google
+llama-index-utils-workflow
+llama-index-llms-google-genai 
+llama-index-llms-gemini
+llama-index-tools-google
+
+
 # ============================================
 # CORE FRAMEWORK
 # ============================================
